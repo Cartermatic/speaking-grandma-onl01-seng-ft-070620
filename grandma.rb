@@ -3,5 +3,6 @@
   talk= "NO, NOT SINCE 1938!"
    else 
      talk= "HUH?! SPEAK UP, SONNY!"
+ return talk
  end
  speak_to_grandma("I LOVE YOU GRANDMA!")
